@@ -6,8 +6,8 @@
 const char* deviceName = "HansLaptop";
 
 // Koneksi WiFi
-const char* ssid = "A 1105B";
-const char* password = "87654321";
+const char* ssid = "";
+const char* password = "";
 
 // Koneksi client
 WiFiClient wifiClient;
